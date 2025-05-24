@@ -1,0 +1,22 @@
+# Some best technique to get the most optimum output from an LLM or GenerativeAI
+
+      01. be specific & try to give details instruction
+      02. role palying - instruct the AI to adopt a persona
+      03. provide examples - few shot learning => 
+      04. chain of thought (COT) - ask the AI to "think step by step" or explain it's resoning
+      05. Define the output format explicitly 
+      06. constrains and negative constrains
+                  -> set boundaries
+                  -> specify what not to do
+      07. iterative refinement
+      08. apply - the "meta-prompt" or "system prompt" technique - set overarching instruct at the beginning of a conversation that apply to all subsequent prompts
+
+      09. the "flipped interaction" or "assume I'm ..." technique - tell the AI to ask you questions if it's needs clarification before generating the output. For example :
+          "I want to write a business plan for a new coffee shop. Before you generate the plan, ask me at least 5 clarifying questions about my vision, target market, and budget to ensure the plan is tailored to my needs."
+
+      10. context stuffing / providing background information - give the LLM all relevent context it needs within the prompt. 
+
+      11. Emotionaly intelligent prompting - phrasing can subtly influence the tone and effort of the LLM. 
+
+
+

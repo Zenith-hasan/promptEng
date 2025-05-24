@@ -1,0 +1,20 @@
+# Some fundamental attribute of an effective prompt :
+    01. clear and precise
+    02. provide enough context
+    03. iterate and refine
+    04. break down the prompt into tiny step
+
+# Structure of a good prompt :
+    01. Role
+    02. context
+    03. Action
+    04. Format
+
+# Some prompt technique:
+    # 01. Zero Shot
+    # 02. Few Shot
+    # 03. Chaining
+    # 04. Chain of Thought
+    # 05. Tree of Thought
+
+
